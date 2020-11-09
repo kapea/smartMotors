@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "85EZBYZErRtKu6dYSd7O4MpEN78ii2lO606W4cTd+5mLl7381TeHrqTsjrEEmLk79k7AiseAzRhUcNSxE63iJg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Alvaro\\Desktop\\PruebaBarcelona\\smartmotor\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alvaro\\.nuget\\packages\\geohash.netcore\\1.1.0\\geohash.netcore.1.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

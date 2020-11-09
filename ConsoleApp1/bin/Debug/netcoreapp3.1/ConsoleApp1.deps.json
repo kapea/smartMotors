@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ConsoleApp1/1.0.0": {
+        "dependencies": {
+          "GeoHash.NetCore": "1.1.0"
+        },
+        "runtime": {
+          "ConsoleApp1.dll": {}
+        }
+      },
+      "GeoHash.NetCore/1.1.0": {
+        "runtime": {
+          "lib/netcoreapp3.1/GeoHash.NetCore.dll": {
+            "assemblyVersion": "1.1.0.0",
+            "fileVersion": "1.1.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleApp1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GeoHash.NetCore/1.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-JQ5w1zPTIfL3Q/WwzwIpiITYpOPOhXC1eyixcH0jItS2nN9BpSh0MNlrhLMsI8Tq5pPvGzDWgOTrh91smYsk2g==",
+      "path": "geohash.netcore/1.1.0",
+      "hashPath": "geohash.netcore.1.1.0.nupkg.sha512"
+    }
+  }
+}
